@@ -1,4 +1,4 @@
-//linear search 
+/linear search 
 //INPUT- 4 1 2 3 4 3
 //OUTPUT - 3
 
@@ -8,7 +8,7 @@ int main()
 {
   int array[100], search, c, n;
 
-  printf("Enter number of elements in the array, array elements and the key");
+  printf("Enter number of elements in the array, array elements and the key\n");
   scanf("%d", &n);
 
   
@@ -28,7 +28,7 @@ int main()
     }
   }
   if (c == n)
-    printf("%d is not present in the array", );
+    printf("%d is not present in the array", search );
 
   return 0;
 }
