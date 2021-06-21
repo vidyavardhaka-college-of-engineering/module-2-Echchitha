@@ -1,4 +1,4 @@
-/linear search 
+//linear search 
 //INPUT- 4 1 2 3 4 3
 //OUTPUT - 3
 
